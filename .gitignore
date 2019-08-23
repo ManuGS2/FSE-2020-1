@@ -1,1 +1,7 @@
 *.o
+build/
+*.defaults
+*.old
+sdkconfig
+*.mk
+*.projbuild
