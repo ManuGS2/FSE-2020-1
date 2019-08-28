@@ -21,13 +21,21 @@ El alumno conocerá la programación en lenguaje ensamblador del procesador asoc
 **Código**
 
 > _start:
+>
 >	mov	r7,#4 **@ Escribe llamada al sistema**
+>
 >	mov	r0,#1 **@ Especificamos salida estándar**
+>
 >	ldr	r1,=message **@ Apuntamos a la dirección donde se encuentra la cadena a imprimir**
+>
 >	mov 	r2,#21 **@ Damos la longitud de la cadena a imprimir**
+>
 >	svc	#0 **@ Abrimos salida estándar**
+>
 >	mov	r7,#1 **@ Salimos de la llamada al sistema**
+>
 >	mov	r0,#0 **@ Regresa 0**
+>
 >	svc	#0 **@ Cerramos salida estándar**
 
 En el código se posicionan los registros con los valores que darán las instrucciones necesarias a la raspberry para abrir el canal de salida estándar (la consola), después recorrerá usando un apuntador una cadena de caracteres que serán mostrados en la pantalla y por ultimo cerrara el canal de comunicación de la salida estándar.
