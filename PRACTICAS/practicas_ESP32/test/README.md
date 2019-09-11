@@ -1,4 +1,4 @@
-# Práctica 1: ESP32: Ambiente de desarrollo y GPIOs
+# Programa de Prueba
 
 ## Integrantes
 
@@ -7,5 +7,4 @@
 * Sáenz Barragán, Ricardo
 
 ## Objetivo
-El alumno conocerá el ambiente de desarrollo ESP-IDF para la programación del microcontrolador ESP32.
-Asimismo, aplicará los conceptos del manejo de entradas y salidas digitales de propósito general.
+Programa de prueba para comprobar funcionamiento del ESP32 por medio del parpadeo de LED integrado.
