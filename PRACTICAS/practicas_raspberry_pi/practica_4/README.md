@@ -7,8 +7,7 @@
 * Sáenz Barragán, Ricardo
 
 ## Objetivo
-El alumno conocerá la configuración, la programación y el uso del módulo UART (Universal Asynchronous
-Receiver Transmitter ) para implementar comunicaciones de tipo serial, particularmente bajo el est´andar RS-232.
+El alumno conocerá la configuración, la programación y el uso del módulo UART (Universal Asynchronous Receiver Transmitter ) para implementar comunicaciones de tipo serial particularmente bajo el estándar RS-232.
 
 ## Descripción
 
