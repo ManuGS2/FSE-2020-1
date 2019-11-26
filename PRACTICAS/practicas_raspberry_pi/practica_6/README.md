@@ -39,6 +39,12 @@ $python actividad_1.py
 
 ```
 
+## Videos
+
+https://drive.google.com/open?id=1pS0RdsUQ9eLzd1rTjvzpMKQq_4lD4-WE
+
+https://drive.google.com/open?id=1SaEcr-VS_nXPNFF-qGcKjJzofF670zo7
+
 ## Referencias
 
 https://pimylifeup.com/raspberry-pi-rtc/
@@ -71,3 +77,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+

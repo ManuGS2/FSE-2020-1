@@ -38,4 +38,6 @@ $python actividad_1.py <Nombre del archivo> <Número entero>
 
 ```
 
+## Video
 
+https://drive.google.com/open?id=1qR31g8D2NXjk3DKCX8YzIGPsCk2NCF3o

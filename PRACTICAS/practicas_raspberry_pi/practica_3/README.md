@@ -31,3 +31,9 @@ Respuestas breves y concisas. Ponga las respuestas en el archivo README usando u
         - Perl
         - Shell
         - BASIC
+
+## Videos
+
+https://drive.google.com/open?id=1AZXQgCofgBqou7TB_cWAZGN1y-u85A2Q
+
+https://drive.google.com/open?id=1J2-xtvrRwlclumx2R8S4Jwn7Zw7YdjgC
